@@ -1,11 +1,4 @@
-/* CSCI 261: Assignment 7
- *
- * Author: Shane Gordon (INSERT_NAME)
- * Resources used (Office Hours, Tutoring, Other Students, etc & in what capacity):
- *     // My friend Dalton Baum helped me get my pure virtual function working properly
- *
- * This program reads in vertex coordinates and colors to paint a picture out of triangles
- */
+
 #include <iostream>
 #include <fstream>
 #include <SFML/Graphics.hpp>
